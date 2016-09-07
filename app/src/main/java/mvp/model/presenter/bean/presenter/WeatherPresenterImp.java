@@ -2,6 +2,7 @@ package mvp.model.presenter.bean.presenter;
 
 import android.util.Log;
 
+import mvp.model.presenter.bean.WeatherData;
 import mvp.model.presenter.bean.model.WeatherModeImp;
 import mvp.model.presenter.bean.model.WeatherModel;
 import mvp.model.presenter.bean.view.WeatherView;
