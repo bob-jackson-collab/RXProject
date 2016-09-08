@@ -19,7 +19,7 @@ import mvp.model.presenter.bean.presenter.WeatherPresenterImp;
 public class WeatherActivity extends Activity implements WeatherView{
 
     @Bind(R.id.text_weather)
-    private TextView text_weather;
+    public TextView text_weather;
     private WeatherPresenter weatherPresenter;
 
     @Override
